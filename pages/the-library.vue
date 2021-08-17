@@ -91,7 +91,7 @@
 </template>
 
 <script>
-import rooms from './rooms'
+import rooms from '~/content/the-library/rooms'
 
 export default {
   data() {
